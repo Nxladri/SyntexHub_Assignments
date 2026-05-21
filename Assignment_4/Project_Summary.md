@@ -1,0 +1,7 @@
+This project presents an exploratory sales analysis using the Superstore retail dataset to derive business insights from historical sales performance. The analysis focused on identifying key performance indicators (KPIs), regional performance, product trends, customer contributions, and profitability patterns to support data-driven business decisions.
+
+Key business metrics such as Total Revenue and Average Order Value were computed to evaluate overall business performance. Regional sales analysis helped identify the top-performing regions, providing insights into high-revenue markets and opportunities for strategic focus. A monthly sales trend analysis was performed to observe seasonality and sales fluctuations over time, helping understand business growth patterns.
+
+The project also identified the top-selling products and high-value customers, enabling a better understanding of customer purchasing behavior and product demand. Additionally, profit and profit margin analysis by category highlighted which product categories generated the highest returns, helping evaluate overall profitability.
+
+Based on the findings, recommendations include increasing marketing efforts in high-performing regions, strengthening customer retention strategies for valuable customers, promoting high-demand products, and improving the performance of underperforming categories through targeted business strategies. Overall, this analysis demonstrates how sales data can be leveraged to generate actionable insights and support informed business decision-making.
